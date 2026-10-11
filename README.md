@@ -1,8 +1,8 @@
 <h1 align="center">42 Network · 1337 Piscine</h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/abenomar" alt="abenomar's 42 stats" /></a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="./DAYS"><strong>Browse the modules →</strong></a>
